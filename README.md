@@ -160,4 +160,4 @@ For anything else (commercial projects, ads, monetized content, client work, etc
 
 Music and sound effects come from [Tunetank](https://tunetank.com) — royalty‑free audio for creators. This MCP server is a **discovery** channel: it returns previews and track pages so you can listen and grab the track on tunetank.com. Downloading and licensing happen on the site.
 
-Questions or issues? Reach out at **hello@tunetank.com**.
+Questions or issues? Reach out at **support@tunetank.com**.
