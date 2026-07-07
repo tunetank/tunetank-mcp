@@ -1,0 +1,17 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-07-09/server.json",
+  "name": "com.tunetank/music",
+  "description": "Search Tunetank's royalty-free music & sound-effects catalog by mood, genre, theme, artist and target length. Free, read-only.",
+  "version": "1.0.0",
+  "repository": {
+    "url": "https://github.com/tunetank/tunetank-mcp",
+    "source": "github"
+  },
+  "websiteUrl": "https://tunetank.com",
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://mcp.tunetank.com"
+    }
+  ]
+}
